@@ -43,8 +43,9 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 ![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-333?style=flat&logo=tech-stack-logo)
 [Short Description]
 
----
 --->
+---
+
 ## 📬 Get in Touch
 
 <p align="center">
@@ -56,8 +57,6 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 
 
 ---
-
-
 
 <!---
 Arun-Ayyappan/Arun-Ayyappan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
