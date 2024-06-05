@@ -22,12 +22,12 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![Odoo](https://img.shields.io/badge/-Odoo-333?style=flat&logo=odoo)
 ![Zoho](https://img.shields.io/badge/-Zoho-333?style=flat&logo=zoho)
+<!--![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm)-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)-->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)-->
 
