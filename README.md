@@ -1,7 +1,7 @@
 # Hi there, I'm Arun Ayyappan! 👋
-
+<!--
 ![Welcome Banner](https://user-images.githubusercontent.com/Arun-Ayyappan/welcome-banner.png)
-
+-->
 I'm a Full Stack Developer with a passion for building dynamic, responsive web applications and working with cutting-edge technologies. Here, you'll find a variety of projects that showcase my skills and interests.
 
 <!--
