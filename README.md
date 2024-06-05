@@ -16,6 +16,7 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
@@ -27,7 +28,6 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![Odoo](https://img.shields.io/badge/-Odoo-333?style=flat&logo=odoo)
 ![Zoho](https://img.shields.io/badge/-Zoho-333?style=flat&logo=zoho)
-<!--![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)-->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)-->
 
