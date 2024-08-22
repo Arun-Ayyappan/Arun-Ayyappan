@@ -28,8 +28,8 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun-Ayyappan&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Ayyappan&hide=html&hide_border=true&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun-Ayyappan&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Ayyappan&layout=compact" />
 </p>
 
 
