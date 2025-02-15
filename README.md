@@ -37,13 +37,17 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009452708730">
-    <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+    <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  
   <a href="https://x.com/ArunAyy68952760">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/jinoy_varghese?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="x" title="Follow me on X" src="https://img.shields.io/twitter/follow/Arun-Ayyappan?label=X&logo=x&logoColor=white&style=for-the-badge"/></a>
+    
   <a href="https://github.com/Arun-Ayyappan">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Arun-Ayyappan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Arun-Ayyappan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub"/></a>
+    
   <a href="https://www.instagram.com/_arunayyappan_">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Arun_Ayyappan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    
   <a href="mailto:arunayyappan644@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
