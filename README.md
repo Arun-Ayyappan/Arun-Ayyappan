@@ -45,7 +45,7 @@ I'm a Full Stack Developer with a passion for building dynamic, responsive web a
   <a href="https://github.com/Arun-Ayyappan">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Arun-Ayyappan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub"/></a>
     
-  <a href="https://www.instagram.com/_arunayyappan_">
+  <a href="https://www.instagram.com/iarunayyappan">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Arun_Ayyappan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     
   <a href="mailto:arunayyappan644@example.com">
